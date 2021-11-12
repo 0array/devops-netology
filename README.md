@@ -19,3 +19,5 @@ File .gitignore from .\terraform\
 	override.tf.json
 	.terraformrc
 	terraform.rc
+
+v0.0 & v0.1 Update fucking tag
